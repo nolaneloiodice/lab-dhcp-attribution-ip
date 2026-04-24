@@ -135,4 +135,3 @@ Les deux machines obtiennent automatiquement une configuration IP valide et peuv
 - topologie-dhcp.png  
 - dhcp-pc1.png  
 - dhcp-pc2.png  
-- configuration-dhcp-routeur.png  
